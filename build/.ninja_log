@@ -90,7 +90,7 @@
 4948	5546	7612739146835250	CMakeFiles/neopixel_pio.dir/C_/Users/joseg/.pico-sdk/sdk/1.5.1/lib/tinyusb/src/tusb.c.obj	f053aa527f78f305
 4976	5845	7612739147061505	CMakeFiles/neopixel_pio.dir/C_/Users/joseg/.pico-sdk/sdk/1.5.1/lib/tinyusb/src/common/tusb_fifo.c.obj	ea772d842b111b0f
 431	902	7612751809894416	neopixel_pio.elf	a1f20636c2845ec5
-18	2840	7612757360062230	build.ninja	6ef8bacc532a93a5
+18	2840	7613625152388825	build.ninja	6ef8bacc532a93a5
 107	528	7612754630786859	CMakeFiles/controle_matriz_led_botao.dir/C_/Users/joseg/.pico-sdk/sdk/1.5.1/src/rp2_common/pico_platform/platform.c.obj	e554150a9aae4e1a
 151	550	7612754631250273	CMakeFiles/controle_matriz_led_botao.dir/C_/Users/joseg/.pico-sdk/sdk/1.5.1/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	2e31a1878a3a63a7
 173	573	7612754631447777	CMakeFiles/controle_matriz_led_botao.dir/C_/Users/joseg/.pico-sdk/sdk/1.5.1/src/common/pico_sync/lock_core.c.obj	22deb3fd413eeb5d

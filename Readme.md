@@ -1,6 +1,6 @@
-# Controle de Matriz de LEDs WS2812B com Raspberry Pi Pico
+# Controle de Matriz de LEDs WS2812B com Raspberry Pi Pico W
 
-Este projeto implementa o controle de uma matriz 5x5 de LEDs WS2812B utilizando um Raspberry Pi Pico. Dois botões são usados para movimentar um LED ativo dentro da matriz.
+Este projeto implementa o controle de uma matriz 5x5 de LEDs WS2812B utilizando um Raspberry Pi Pico W. Dois botões são usados para movimentar um LED ativo dentro da matriz.
 
 ## 📌 Funcionalidades
 - Controle de uma matriz 5x5 de LEDs WS2812B.
@@ -8,17 +8,17 @@ Este projeto implementa o controle de uma matriz 5x5 de LEDs WS2812B utilizando 
 - Uso da biblioteca PIO para comunicação com os LEDs.
 
 ## 🛠️ Hardware Necessário
-- Raspberry Pi Pico
+- Raspberry Pi Pico w
 - Matriz de LEDs WS2812B (25 LEDs)
 - 2 botões para controle
 - Resistores de pull-up para os botões (caso necessário)
 
 ## 📜 Dependências
-- SDK do Raspberry Pi Pico
+- SDK do Raspberry Pi Pico W
 - Biblioteca PIO para controle dos LEDs
 
 ## 📌 Esquema de Ligações
-| Componente | GPIO do Pico |
+| Componente | GPIO do Pico W|
 |------------|-------------|
 | LEDs WS2812B (DIN) | GPIO7 |
 | Botão A | GPIO5 |
@@ -45,7 +45,7 @@ Este projeto implementa o controle de uma matriz 5x5 de LEDs WS2812B utilizando 
 ## 🔧 Compilação e Upload
 1. Configure o ambiente de desenvolvimento do Raspberry Pi Pico (SDK C/C++).
 2. Compile o código utilizando `cmake` e `make`.
-3. Envie o binário gerado para o Raspberry Pi Pico.
+3. Envie o binário gerado para o Raspberry Pi Pico W.
 
 ## 🚀 Funcionamento
 - Pressione o **botão A** para mover o LED ativo na direção X.
