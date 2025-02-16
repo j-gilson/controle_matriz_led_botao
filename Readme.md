@@ -1,6 +1,7 @@
 # Controle de Matriz de LEDs WS2812B com Raspberry Pi Pico W
 
-Este projeto implementa o controle de uma matriz 5x5 de LEDs WS2812B utilizando um Raspberry Pi Pico W. Dois botões são usados para movimentar um LED ativo dentro da matriz.
+
+Este projeto implementa o controle de uma matriz 5x5 de LEDs WS2812B utilizando um Raspberry Pi Pico W da placa Bitdoglab. Dois botões são usados para movimentar um LED ativo dentro da matriz.
 
 ## 📌 Funcionalidades
 - Controle de uma matriz 5x5 de LEDs WS2812B.

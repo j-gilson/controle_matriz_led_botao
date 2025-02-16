@@ -1,5 +1,5 @@
 
-C:/Users/joseg/BitDogLab-C-main/neopixel_pio/build/controle_matriz_led_botao.elf:     file format elf32-littlearm
+C:/Users/joseg/BitDogLab-C-main/controle_matriz_led_botao/build/controle_matriz_led_botao.elf:     file format elf32-littlearm
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
@@ -36,7 +36,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
  15 .debug_frame  00000028  00000000  00000000  00009018  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
 
-C:/Users/joseg/BitDogLab-C-main/neopixel_pio/build/controle_matriz_led_botao.elf:     file format elf32-littlearm
+C:/Users/joseg/BitDogLab-C-main/controle_matriz_led_botao/build/controle_matriz_led_botao.elf:     file format elf32-littlearm
 
 
 Disassembly of section .boot2:
