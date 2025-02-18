@@ -53,5 +53,4 @@ Este projeto implementa o controle de uma matriz 5x5 de LEDs WS2812B utilizando 
 - Pressione o **botão B** para mover o LED ativo na direção Y.
 - O LED aceso indica a posição atual dentro da matriz.
 
-## 📜 Licença
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
